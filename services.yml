@@ -1,0 +1,5 @@
+facebook:
+  apikey: 1234567890
+  username: ''
+  password: ''
+  savedir: '.'

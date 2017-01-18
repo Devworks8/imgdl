@@ -1,0 +1,6 @@
+- Create plugin manager
+    - Manage various APIs. i.e. FB, Pintress, etc.
+- Create Shell
+    - Application front end. i.e. start/stop/restart plugins, queries, file management
+- Create GUI
+- Create logging system (used in debug mode)
