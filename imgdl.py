@@ -1,3 +1,9 @@
+"""
+Name: imgdl.py
+Version: 0.1
+Description: Image downloader for various services. I.e. Facebook, Pintress, etc.
+"""
+
 import configuration
 
 
