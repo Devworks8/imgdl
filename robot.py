@@ -6,6 +6,8 @@ Description: Command shell terminal.
 
 import cmd
 
+import services
+
 __version__ = '0.1'
 
 
