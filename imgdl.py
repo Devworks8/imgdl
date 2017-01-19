@@ -15,7 +15,7 @@ def main(**kwargs):
     settings = config.get_settings()
     services = config.get_services()
     if not kwargs:
-        print("must process kwargs")
+        print("must process empty kwargs")
     shell = robot.Shell(**kwargs)
     cmd_loop_thread = Thread(target=shell.run)
     cmd_loop_thread.daemon = True
